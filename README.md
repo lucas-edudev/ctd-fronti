@@ -1,92 +1,265 @@
-# ctd-frontI
+# Certified Tech Developer - Front I
 
-Código fonte das aulas de Front I da formação Certified Tech Develper no período de fevereiro à abril de 2022.
 
-## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Módulo 1: Boas-vindas.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+### Aula 1: Boas-vindas
+<small>21 de fevereiro 2022 - segunda-feira</small>
 
-## Add your files
+Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da disciplina.
+- [ ] Introdução ao assunto
+    - [ ] O que é ser um desenvolvedor frontend?
+    - [ ] Arquitetura cliente-servidor
+    - [ ] Diferenças entre Web e Internet
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+### Aula 2: Uso de ferramentas
+<small>22 de fevereiro 2022 - terça-feira</small>
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/wssantanna/ctd-fronti.git
-git branch -M main
-git push -uf origin main
-```
+Compreender a importância da criação de esboços e conhecer as diferentes ferramentas para a sua preparação. Uso de ferramentas, pastas e plataforma do Visual Code.
 
-## Integrate with your tools
+- [ ] Ferramentas de um desenvolvedor web
+- [ ] Wireframes
+- [ ] Introdução ao Figma
+- [ ] Estrutura de pastas
+- [ ] Guia de Visual Studio Code
+- [ ] Navegadores e dispositivos
 
-- [ ] [Set up project integrations](https://gitlab.com/wssantanna/ctd-fronti/-/settings/integrations)
+### Aula 3: Revisão e prática I
+<small>23 de fevereiro 2022 - quarta-feira</small>
 
-## Collaborate with your team
+Aula de revisão e aplicação dos temas das aulas 01 e 02. 
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+<br>
 
-## Test and Deploy
+## Módulo 2: Introdução às estruturas e estilos
 
-Use the built-in continuous integration in GitLab.
+Conceitos básicos de HTML e CSS em um controle de versões.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+### Aula 4: Introdução à linguagem HTML
+<small>07 de março 2022 - segunda-feira</small>
 
-***
+Identificar os elementos de um documento HTML e reconhecer atributos globais.
 
-# Editing this README
+- [ ] Definição de HTML 
+- [ ] Tags e atributos
+- [ ] Estrutura básica de um documento HTML
+- [ ] Elementos de linha e bloco
+- [ ] Algumas etiquetas básicas: h1, p (bloco) e a, span (em linha)
+- [ ] Usando o Inspetor de propriedades
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+### Aula 5: Tags
+<small>08 de março 2022 - terça-feira</small>
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Identificar tags e atributos específicos.
 
-## Name
-Choose a self-explaining name for your project.
+- [ ] Listas: ordenadas e desordenadas
+- [ ] Tags de Texto: Títulos, parágrafos e quotes
+- [ ] Rotas: hiperlinks, imagens  
+- [ ] Tags semânticas
+- [ ] GIT 
+- [ ] Acessibilidade
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Aula 6: Revisão e Prática II
+<small>09 de março 2022 - quarta-feira</small>
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Aula de revisão e aplicação dos temas das aulas 04 e 05. 
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+### Aula 7: Introdução à linguagem CSS
+<small>14 de março 2022 - segunda-feira</small>
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Conhecer a sintaxe css e como esta se relaciona com o HTML.
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+- [ ] Definição e sintaxe
+- [ ] CSS e HTML
+    - [ ] Link externo
+    - [ ] Link interno
+    - [ ] Em linha
+- [ ] Seletores
+    - [ ] Universal
+    - [ ] Elemento
+    - [ ] Classes e ID
+    - [ ] Descendentes e adjacentes
+    - [ ] Grupos
+- [ ] Usando o Inspetor de propriedades
+- [ ] Propriedades básicas: `color`, `background-color`
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+### Aula 8: Propriedades do CSS
+<small>15 de março 2022 - terça-feira</small>
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Reconhecer e aplicar as propriedades do CSS que definem a sua estética.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+- [ ] Cores
+    - [ ] Nomes
+    - [ ] Hexadecimais
+    - [ ] RGB e RGBA
+- [ ] Fundos
+    - [ ] Cores
+    - [ ] Imagens
+    - [ ] Videos `<vídeo>`
+    - [ ] Propriedades
+- [ ] Fontes
+    - [ ] Genéricas e Google Fonts
+    - [ ] Estilos (medidas, tamanho, negrito, itálico)
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+### Aula 9: Modelo de caixa
+<small>16 de março 2022 - quarta-feira</small>
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+Identificar que cada elemento HTML possui propriedades de caixa e que cada um deles pode ser manipulado. Entender o uso do dimensionamento de caixa para visualizar as medidas de espaço específicas para o elemento.
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+- [ ] Propriedades
+    - [ ] `width` e `height`
+    - [ ] `padding`
+    - [ ] `border`
+    - [ ] `margin`
+    - [ ] `box-sizing`
+    - [ ] `position`
+    - [ ] `z-index`
 
-## License
-For open source projects, say how it is licensed.
+<br>
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## Módulo 3: Estruturação avançada
+
+Utilização de novas características do CSS que proporcionam uma melhora na distribuição dos elementos visuais no HTML.
+
+### Aula 10: Caixas flexíveis
+<small>21 de março 2022 - segunda-feira</small>
+
+Utilizar com eficiência as propriedades das caixas flexíveis para posicionar os elementos e criar um design adaptável ao mesmo tempo.
+
+- [ ] Introdução
+- [ ] Eixos
+- [ ] Estrutura básica
+- [ ] Itens
+- [ ] Espaçamento
+
+### Aula 11: Revisão e prática IV
+<small>22 de março 2022 - terça-feira</small>
+
+Aula de revisão e aplicação dos temas das aulas 10 e 11.
+
+## Aula 12: Implementação
+<small>23 de março 2022 - quarta-feira</small>
+
+Aplicar os conhecimentos vistos até agora em um projeto integrador.
+
+- [ ] HTML
+- [ ] CSS
+
+### Aula 13: Design adaptativo
+<small>28 de março 2022 - segunda-feira</small>
+
+Gerencie para criar designs que se adaptam a qualquer dispositivo usando as propriedades apropriadas.
+
+- [ ] Media Queries
+- [ ] Viewports
+- [ ] Medidas relativas
+
+
+### Aula 14: Revisão e prática V
+<small>29 de março 2022 - terça-feira</small>
+
+Revisão de flexbox e media queries e a integração com o projeto .
+
+### Aula 15: Formulários
+<small>30 de março 2022 - quarta-feira</small>
+
+Identifique as TAGS de um formulário e suas possíveis entradas, estabeleça a importância de seus atributos e sua relação com o envio a um banco de dados e entenda a importância de validar os dados de frente.
+
+- [ ] Elementos de entrada
+    - [ ] Input, textarea e select, option.
+    - [ ] Label.
+- [ ] Button: Submit e Reset.
+- [ ] Propriedades do Input
+    - [ ] `type="email, number, text…"`.
+    - [ ] `required`
+    - [ ] `disabled`
+
+<br>
+
+## Módulo 4: Estilos avançados
+
+Utilização de linguagem CSS avançado para melhorar a interação com o usuário
+
+### Aula 16: Pseudo-seletores
+<small>04 de abril 2022 - segunda-feira</small>
+
+Reconhecer o que são as sintaxes das pseudoclasses e pseudoelementos. E diferenciar seus propósitos. 
+
+- [ ] Pseudo-classes
+- [ ] Pseudo-elementos
+
+### Aula 17: Animações com CSS
+<small>05 de abril 2022 - terça-feira</small>
+
+Identificar como criar uma sequência de animações sem usar javascript.
+
+- [ ] Introdução a animações
+- [ ] Propriedades
+    - [ ] `transform` 
+    - [ ] `transition` 
+    - [ ] `keyframes` 
+
+
+### Aula 18: Aula integradora
+<small>06 de abril 2022 - quarta-feira</small>
+
+Aplicar todo o conhecimento adquirido nas aulas anteriores e revisar os assuntos.
+
+- [ ] Revisão das aulas.
+
+### Aula 21: Avaliação final da semana
+<small>11 de abril 2022 - segunda-feira</small>
+
+Aplicar o conhecimento adquirido até o momento para fazer um projeto integrador. Gerencie para criar designs que se adaptam a qualquer dispositivo usando as propriedades adequadas.
+
+- [ ] Media Queries
+
+<br>
+
+## Módulo 5: Frameworks
+
+Ferramentas avançadas para facilitar o trabalho de codificação e implementação do desenvolvedor Front End.
+
+### Aula 22: Grid layout
+<small>12 de abril 2022 - terça-feira</small>
+
+Diferenciar Grid de Flex e identificar as propriedades de um layout bidimensional.
+
+- [ ] Introdução
+- [ ] Como funciona
+- [ ] Posições
+
+
+### Aula 23: Frameworks e bibliotecas
+<small>13 de abril 2022 - quarta-feira</small>
+
+Entender em que situações é bom usar os frameworks, explorar sua arquitetura e implementação nos nossos projetos.
+
+- [ ] Definição - Vantagens e desvantagens
+
+### Aula 24: SASS 1/2
+<small>18 de abril 2022 - segunda-feira</small>
+
+Entenda a importância de criar folhas de estilo modulares e escaláveis ​​em menos tempo e conheça sua sintaxe.
+
+- [ ] Introdução
+- [ ] Nesting e variáveis
+
+### Aula 25: SASS 2/2
+<small>19 de abril 2022 - terça-feira</small>
+
+Continuar a explicação acerca do SASS.
+
+- [ ] Partials e mixins
+- [ ] Extends
+
+### Aula 24: Revisão e prática VIII
+<small>20 de abril 2022 - quarta-feira</small>
+
+Revisão do módulo.
+
+
+<br><br>
+
+**Nota:** O calendário de aulas poderá sofrer alterações sempre que necessários, portanto serve apenas como uma orientação do plano de curso para nosso cronograma interno.
