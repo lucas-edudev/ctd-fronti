@@ -52,3 +52,11 @@ Para listar todos as alterações salvar no versionamento local.
 
 #### `git push`
 Para enviar para o repositório remoto as alterações realizadas localmente.
+
+
+### Links úteis
+
+- [Tutorial para gerar chave SSH](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Documentação do Markdown](https://www.markdownguide.org/)
+- [Site do Git](https://git-scm.com/)
+- [Extensão LiveShare](https://visualstudio.microsoft.com/pt-br/services/live-share/)
