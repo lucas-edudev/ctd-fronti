@@ -23,4 +23,4 @@ Substitua pelo seu nome.
 
 <br><br>
 
-**Nota:** O professor deverá orientar como será a entrega do código-fonte.
+**Nota:** Para entrega, siga o passo a passo do arquivo [__entregaDaAtividade__.md](https://gitlab.com/wssantanna/ctd-fronti/-/blob/main/01/mesa-de-trabalho/__entregaDaAtividade__.md).
