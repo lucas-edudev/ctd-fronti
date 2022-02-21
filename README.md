@@ -4,7 +4,7 @@
 
 ## Módulo 1: Boas-vindas.
 
-### [Aula 1: Boas-vindas](https://gitlab.com/wssantanna/ctd-fronti/)
+### [Aula 1: Boas-vindas](https://gitlab.com/wssantanna/ctd-fronti/-/tree/main/01)
 <small>21 de fevereiro 2022 - segunda-feira</small>
 
 Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da disciplina.
