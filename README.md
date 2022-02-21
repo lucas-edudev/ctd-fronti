@@ -4,14 +4,15 @@
 
 ## Módulo 1: Boas-vindas.
 
-### Aula 1: Boas-vindas
+### [Aula 1: Boas-vindas](https://gitlab.com/wssantanna/ctd-fronti/)
 <small>21 de fevereiro 2022 - segunda-feira</small>
 
 Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da disciplina.
-- [ ] Introdução ao assunto
-    - [ ] O que é ser um desenvolvedor frontend?
-    - [ ] Arquitetura cliente-servidor
-    - [ ] Diferenças entre Web e Internet
+- [x] Introdução ao assunto
+    - [x] O que é ser um desenvolvedor frontend?
+    - [x] Arquitetura cliente-servidor
+    - [x] Diferenças entre Web e Internet
+- [ ] Controle de versão
 
 ### Aula 2: Uso de ferramentas
 <small>22 de fevereiro 2022 - terça-feira</small>
