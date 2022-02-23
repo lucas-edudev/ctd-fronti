@@ -8,13 +8,23 @@
 <small>21 de fevereiro 2022 - segunda-feira</small>
 
 Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da disciplina.
+
+**Assíncrono:**
 - [x] Introdução ao assunto
     - [x] O que é ser um desenvolvedor frontend?
     - [x] Arquitetura cliente-servidor
     - [x] Diferenças entre Web e Internet
-- [ ] Controle de versão
 
-### Aula 2: Uso de ferramentas
+**Síncrono:**
+- [x] Apresentação de "Como serão avaliados"
+- [x] Apresentação do "Cronograma de aulas"
+- [x] Controle de versão (local)
+
+**Nota:** Esta primeira aula não teve atividade de mesa de trabalho.
+
+**Nota:** Os alunos deram a ideia é adicionar 5/10 minutos de pausa antes de iniciar a atividade da mesa de trabalho.
+
+### [Aula 2: Uso de ferramentas](https://gitlab.com/wssantanna/ctd-fronti/-/tree/main/02)
 <small>22 de fevereiro 2022 - terça-feira</small>
 
 Compreender a importância da criação de esboços e conhecer as diferentes ferramentas para a sua preparação. Uso de ferramentas, pastas e plataforma do Visual Code.
@@ -25,6 +35,7 @@ Compreender a importância da criação de esboços e conhecer as diferentes fer
 - [ ] Estrutura de pastas
 - [ ] Guia de Visual Studio Code
 - [ ] Navegadores e dispositivos
+- [ ] Controle de versão (remoto)
 
 ### Aula 3: Revisão e prática I
 <small>23 de fevereiro 2022 - quarta-feira</small>
