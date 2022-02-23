@@ -10,12 +10,14 @@
 Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da disciplina.
 
 **Assíncrono:**
+
 - [x] Introdução ao assunto
     - [x] O que é ser um desenvolvedor frontend?
     - [x] Arquitetura cliente-servidor
     - [x] Diferenças entre Web e Internet
 
 **Síncrono:**
+
 - [x] Apresentação de "Como serão avaliados"
 - [x] Apresentação do "Cronograma de aulas"
 - [x] Controle de versão (local)
@@ -29,13 +31,22 @@ Proporcionar aos estudantes uma primeira abordagem aos recursos e conceitos da d
 
 Compreender a importância da criação de esboços e conhecer as diferentes ferramentas para a sua preparação. Uso de ferramentas, pastas e plataforma do Visual Code.
 
-- [ ] Ferramentas de um desenvolvedor web
-- [ ] Wireframes
-- [ ] Introdução ao Figma
-- [ ] Estrutura de pastas
-- [ ] Guia de Visual Studio Code
-- [ ] Navegadores e dispositivos
-- [ ] Controle de versão (remoto)
+**Assíncrono**
+
+- [x] Ferramentas de um desenvolvedor web
+- [x] Wireframes
+- [x] Introdução ao Figma
+- [x] Estrutura de pastas
+- [x] Navegadores e dispositivos
+
+**Síncrono**
+
+- [x] Guia de Visual Studio Code
+- [x] Controle de versão (remoto) 
+    - [x] Gerar a chave SSH
+    - [x] Cadastrar a chave SSH no Gitlab/Github
+
+**Nota:** Utilizamos a atividade da mesa de trabalho para gerar a chave SSH e cadastrá-la na plataforma Gitlab/Github.
 
 ### Aula 3: Revisão e prática I
 <small>23 de fevereiro 2022 - quarta-feira</small>
